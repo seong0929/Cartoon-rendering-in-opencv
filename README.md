@@ -1,8 +1,8 @@
 # Cartoon-rendering-in-opencv
 
 결과 사진
-![image](https://user-images.githubusercontent.com/50050003/226864872-78cfdc71-4796-40a1-bb2d-9ef49c86c2c7.png)
 ![image](https://user-images.githubusercontent.com/50050003/226864854-85b76f50-b833-437f-bddf-f2fe37f447ed.png)
+![image](https://user-images.githubusercontent.com/50050003/226864872-78cfdc71-4796-40a1-bb2d-9ef49c86c2c7.png)
 ![image](https://user-images.githubusercontent.com/50050003/226864887-24288d94-47ee-4f0f-b265-904ce729a9fe.png)
 ![image](https://user-images.githubusercontent.com/50050003/226864904-f6200be2-3328-40cf-b370-4379b1c4d429.png)
 
