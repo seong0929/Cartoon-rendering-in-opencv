@@ -1,5 +1,4 @@
 # Cartoon-rendering-in-opencv
-이미지를 카툰으로 바뀌는 과정을 차례대로 보여줍니다.
 
 결과 사진
 ![image](https://user-images.githubusercontent.com/50050003/226864872-78cfdc71-4796-40a1-bb2d-9ef49c86c2c7.png)
